@@ -1,4 +1,4 @@
-# projectMprog
+﻿# projectMprog
 Budgetteer-app
 
 Problem statement
@@ -21,9 +21,10 @@ Solution
 	Visual sketch: 
   
   
-  
-  
-  
+  ![](doc/IMG_0020.JPG)
+  ![](doc/IMG_0021.JPG)
+  ![](doc/IMG_0022.JPG)
+    
   
     Main features: 
 	-	Haalt automatisch uitgaven en inkomsten van een gebruiker op van hun bankrekening.
