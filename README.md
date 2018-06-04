@@ -56,24 +56,24 @@ Prerequisites
 	
 	Similar mobile apps: 
 
-		ABN Grip-app
+	ABN Grip-app
 		
 	“Grip is gekoppeld aan de app Mobiel Bankieren van ABN Amro en geeft inzicht in je uitgavenpatroon. 
 	Waar geef je veel geld aan uit, en waaraan weinig?”
 
-	    		What does it do?
+	    	What does it do?
 			
 	“Grip is een digitaal huishoudboekje en geeft inzicht in je uitgavenpatroon. 
 	De app analyseert waar je veel en weinig aan uitgeeft in vergelijking met gemiddelden van het Nibud. 
 	Ook vergelijkt de app je eigen uitgaven over verschillende perioden. 
 	De analyses kun je verfijnen door de uitgaven beter te categoriseren of te taggen.”
 
-	    		How have they implemented it?
+	    	How have they implemented it?
 			
 	Aangezien het een app voor gebruikers van ABN is, linkt ABN de Grip-app aan de app Mobiel Bankieren. 
 	Hierdoor krijgt de Grip app toegang tot de transacties van een bepaalde bankrekening. Deze worden vervolgens 
 
-	    		Can you do it the same way?
+	    	Can you do it the same way?
 			
 	Aangezien de app die voor dit project gemaakt wordt niet direct gelinkt wordt aan een mobiel bankieren app van een specifieke bank,
 	zal de data op een andere manier dan bij de abn verzameld worden; namelijk, via de Open Bank Project API. 
