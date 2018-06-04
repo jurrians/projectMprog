@@ -1,6 +1,8 @@
 ﻿# projectMprog
 Budgetteer-app
 
+Jurrian Schreuder (11053542)
+
 Problem statement
 
 	Problem statement: 
