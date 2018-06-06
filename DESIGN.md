@@ -1,3 +1,3 @@
   
-  ![](doc/IMG_0027.JPG)
-  ![](doc/projectDesign.JPG)
+  ![](doc/classes.jpg)
+  ![](doc/projectDesign.jpg)
